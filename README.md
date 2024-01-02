@@ -2,13 +2,15 @@
 <!-- <div style="width: 100%; text-align: center;">
   <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" style="width: 100%; max-width: 100%;">
 </div> -->
-<img src="https://github.com/cyberjj999/cyberjj999/blob/main/programming-confused.gif?raw=true"/>
+<!-- <img src="https://github.com/cyberjj999/cyberjj999/blob/main/programming-confused.gif?raw=true"/> -->
 
 <h1 align="center">Hi 👋, I'm JJ!</h1>
-<h3 align="center">A tech enthusiast who is deeply intrigued by all-things productivity and startups</h3>
+<h3 align="center">A tech enthusiast who is deeply intrigued by all things productivity and startups</h3>
+<h3 align="center">Currently exploring the space of AI Safety, Startups, and Venture Capital.</h3>
 
+- 🎓 I'm a computing undergraduate in Singapore 🇸🇬
 - 👨‍💻 I enjoy coding... sometimes.
-- 📝 I write articles on [https://medium.com/@lyejiajun](https://medium.com/@lyejiajun)
+- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/lyejiajun/recent-activity/articles/) and [Medium](https://medium.com/@lyejiajun) about tech & productivity stuff.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
