@@ -10,7 +10,7 @@
 
 - 🎓 I'm a computing undergraduate in Singapore 🇸🇬
 - 👨‍💻 I enjoy coding... sometimes.
-- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/lyejiajun/recent-activity/articles/) and [Medium](https://medium.com/@lyejiajun) about tech & productivity stuff.
+- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/lyejiajun/recent-activity/articles/) and [Medium](https://medium.com/@lyejiajun) about technical, productivity, and general industry stuff. Check out my list of written articles on this repo! [@lyejiajun-writes](https://github.com/cyberjj999/lyejiajun-writes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
