@@ -4,7 +4,7 @@
 </div> -->
 <!-- <img src="https://github.com/cyberjj999/cyberjj999/blob/main/programming-confused.gif?raw=true"/> -->
 
-<h1 align="center">Hi 👋, I'm JJ!</h1>
+<h1 align="center">Hi 👋, I'm Jayce!</h1>
 <h3 align="center">A tech enthusiast who is deeply intrigued by all things productivity and startups</h3>
 <h3 align="center">Currently exploring the space of AI Safety, Startups, and Venture Capital.</h3>
 
